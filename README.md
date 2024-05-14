@@ -19,7 +19,7 @@ const jufedev = {
             javaScript: "Express"
         },
 
-        databases: ["MySql", "MongoDB"],
+        databases: ["PostgreSQL", "MongoDB"],
 
         devOps: "Docker",
     },
