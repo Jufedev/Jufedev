@@ -10,17 +10,18 @@ const jufedev = {
 
     tecnologias: {
         frontEnd: {
-            css: ["Tailwind CSS"],
-            js: ["React"],
+            css: "Tailwind CSS",
+            javaScript: "React",
         },
 
         backEnd: {
-            python: ["Django"],
+            python: "Django",
+            javaScript: "Express"
         },
 
         databases: ["MySql", "MongoDB"],
 
-        devOps: ["Docker"],
+        devOps: "Docker",
     },
 }
 ```
