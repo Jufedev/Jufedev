@@ -6,16 +6,15 @@ const jufedev = {
 
     pronombres: ["He", "Him"],
 
-    lenguajes: ["Python", "JavaScript"],
+    lenguajes: ["Python", "JavaScript/TypeScript"],
 
     tecnologias: {
         frontEnd: {
             css: "Tailwind CSS",
-            javaScript: "React",
+            javaScript/typeScript: "React",
         },
 
         backEnd: {
-            python: "Django",
             javaScript: "Express"
         },
 
