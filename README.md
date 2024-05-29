@@ -11,7 +11,7 @@ const jufedev = {
     tecnologias: {
         frontEnd: {
             css: "Tailwind CSS",
-            javaScript/typeScript: "React",
+            javaScript/typeScript: "React"
         },
 
         backEnd: {
@@ -20,8 +20,8 @@ const jufedev = {
 
         databases: ["PostgreSQL", "MongoDB"],
 
-        devOps: "Docker",
-    },
+        devOps: "Docker"
+    }
 }
 ```
 
