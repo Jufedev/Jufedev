@@ -6,7 +6,7 @@ const jufedev = {
 
     pronombres: ["He", "Him"],
 
-    lenguajes: ["Python", "JavaScript/TypeScript"],
+    lenguajes: ["JavaScript/TypeScript", "C#" , "Python"],
 
     tecnologias: {
         frontEnd: {
