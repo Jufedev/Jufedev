@@ -11,14 +11,14 @@ const jufedev = {
     tecnologias: {
         frontEnd: {
             css: "Tailwind CSS",
-            javaScript/typeScript: "React"
+            typeScript: "Angular"
         },
 
         backEnd: {
-            javaScript: "Express"
+            C#: "ASP.NET"
         },
 
-        databases: ["PostgreSQL", "MongoDB"],
+        databases: "SQL Server",
 
         devOps: "Docker"
     }
