@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f3460&height=140&section=header&text=Juan%20Serrato&fontSize=44&fontColor=e2e8f0&animation=fadeIn&fontAlignY=68&desc=jufedev&descAlignY=85&descSize=16&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f3460&height=140&section=header&text=jufedev&fontSize=44&fontColor=e2e8f0&animation=fadeIn&fontAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=60A5FA&center=true&vCenter=true&width=520&lines=Cloud+Infrastructure+Engineer;AWS+%C2%B7+Networking+%C2%B7+Containers+%C2%B7+IaC;Multi-account+architectures+%26+private+connectivity;Building+reliable+infra%2C+one+module+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=60A5FA&center=true&vCenter=true&width=520&lines=Cloud+Infrastructure+Engineer;AWS+%C2%B7+Networking+%C2%B7+Containers+%C2%B7+IaC;Multi-account+architectures+%26+private+connectivity" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/juanfserrato">
-    <img src="https://img.shields.io/badge/LinkedIn-juanfserrato-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-juanfserrato-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Bogot%C3%A1%2C%20Colombia-gray?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ## ☁️ About
 
-Cloud Infrastructure Engineer focused on **AWS**, **networking** and **containers**. I design multi-account architectures, private connectivity (Transit Gateway · PrivateLink · VPNs), and container deployments on ECS/Fargate. I use **Python** and **Go**, and build reproducible infrastructure with **Terraform**.
+Cloud Infrastructure Engineer focused on **AWS**, **networking** and **containers**. I design multi-account architectures, private connectivity (Transit Gateway · PrivateLink · VPNs), and container deployments on ECS/Fargate. I use **Python**, **Go** and build reproducible infrastructure with **Terraform**.
 
 Currently specializing in cloud networking and working toward AWS Advanced Networking Specialty.
 
@@ -65,8 +65,10 @@ Multi-account AWS Landing Zone built with Terraform. Structured around reusable 
 ## 📊 Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Jufedev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=Jufedev&theme=darkhub&no-frame=true&margin-w=12&column=4" />
+</p>
+
+<p align="center">
   <img height="155" src="https://streak-stats.demolab.com?user=Jufedev&theme=github-dark-blue&hide_border=true" />
 </p>
 
