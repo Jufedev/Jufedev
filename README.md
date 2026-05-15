@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/juanfserrato">
-    <img src="https://img.shields.io/badge/LinkedIn-juanfserrato-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-juanfserrato-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2" />
   &nbsp;
   <img src="https://img.shields.io/badge/Bogot%C3%A1%2C%20Colombia-gray?style=flat-square&logo=googlemaps&logoColor=white" />
   &nbsp;
@@ -63,10 +61,6 @@ Multi-account AWS Landing Zone built with Terraform. Structured around reusable 
 ---
 
 ## 📊 Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jufedev&theme=darkhub&no-frame=true&margin-w=12&column=4" />
-</p>
 
 <p align="center">
   <img height="155" src="https://streak-stats.demolab.com?user=Jufedev&theme=github-dark-blue&hide_border=true" />
